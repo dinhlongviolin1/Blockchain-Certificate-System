@@ -1,0 +1,59 @@
+Successfully Generated Authority: RMIT University
+
+Authority Public Key (Id): 
+
+-----BEGIN RSA PUBLIC KEY-----!!!MEgCQQDcMoxrl5bSrPEeqShfvBE+PfeucroYgn8mxpyCVmF4xz2GZZxFri+59nlf!!!OFvkOkdDQP4pq6GZIYZAUaL9TGClAgMBAAE=!!!-----END RSA PUBLIC KEY-----!!!
+
+Authority Private Key: 
+
+-----BEGIN RSA PRIVATE KEY-----!!!MIIBPgIBAAJBANwyjGuXltKs8R6pKF+8ET49965yuhiCfybGnIJWYXjHPYZlnEWu!!!L7n2eV84W+Q6R0NA/imroZkhhkBRov1MYKUCAwEAAQJBAL2NRhPYip0RAv/B3l+L!!!JczOy0gAuvIeZBadIl2QvcOh4IXyq8o31JJgBsVBv6aX32OruRBt6AJnTCcg/UUW!!!9AECIwD2PSErrXj6Cp4tEsk+IdYHVcroUJ2Rj7Q1ktoe7R+BcqGJAh8A5O0luTW7!!!sqOeEpR9rNglc83z2SqXnf+PHAkL8ws9AiJAzR+QngtrSiYMWJhLWJ45ufM3JhgB!!!eZ8ERkxOvTqAV4l5Ah8A2r9cf5i/rRg5MKnhWOsFBp4ytz3CuP/9IJ3oZCpFAiMA!!!h79YvB6AQ6qvcb/ADsPA96VsXv1+TUr6hZl+nataoqv/Ew==!!!-----END RSA PRIVATE KEY-----!!!
+
+Successfully Generated Authority: Swinburne University
+
+Authority Public Key (Id): 
+
+-----BEGIN RSA PUBLIC KEY-----!!!MEgCQQCHeRJ3S5JLXoOAk3KICWlxTmNmhkn+dhx5eR1tDjLm5Rag7+RNYnE0WJ5D!!!ODvtbI5St9aBHkOnIDmXIBvb2IXNAgMBAAE=!!!-----END RSA PUBLIC KEY-----!!!
+
+Authority Private Key: 
+
+-----BEGIN RSA PRIVATE KEY-----!!!MIIBPQIBAAJBAId5EndLkkteg4CTcogJaXFOY2aGSf52HHl5HW0OMublFqDv5E1i!!!cTRYnkM4O+1sjlK31oEeQ6cgOZcgG9vYhc0CAwEAAQJAaeHQ8vhX0Rx/v0B+5aAl!!!j29q9TjEIGQEAVUOEKxlrpZUKdFzJ3Jf0WzCbZwPv3JVY0wq1yfO+GXME0DxMH/G!!!KQIjAM78L0jm7OI6hn0CuL4jRYEePMqKAG/mb2Hr8Qrep5A3mKsCHwCnjbCEuwwy!!!OP38y9LmxNBzQXRaLH3Ly8GZASNAS2cCIk/GfMcBUe2DlxAZe3C1EXXJXK7Hb5Gx!!!Y95+3GFPHZAFDY8CHwCHFZfb2wXBM+uptRZq0QCR+5J35Ojitnp2BdHK0z8CIwCH!!!XfSIQZwuxSOQwQy/pjFT0d9f2pwz5B4aYlA51cbDZcRC!!!-----END RSA PRIVATE KEY-----!!!
+
+Successfully Generated Authority: University of Science and Technology
+
+Authority Public Key (Id): 
+
+-----BEGIN RSA PUBLIC KEY-----!!!MEgCQQCCgt0pIkh0wRO5C4TTOeM5U+/Fxpz+9uTBdKp4LL2ehtHZusRlmI8VCCY1!!!64yYxxPOsnHYIgIDyJtPZm5Kk+GPAgMBAAE=!!!-----END RSA PUBLIC KEY-----!!!
+
+Authority Private Key: 
+
+-----BEGIN RSA PRIVATE KEY-----!!!MIIBPAIBAAJBAIKC3SkiSHTBE7kLhNM54zlT78XGnP725MF0qngsvZ6G0dm6xGWY!!!jxUIJjXrjJjHE86ycdgiAgPIm09mbkqT4Y8CAwEAAQJACT39LWmJGgOGQwdmy5KA!!!3dFs3GOZQJD5WB3L6KC6bTK7g7ZWxzNIZjUo2ZIvm0XRpoSJL8vfKZ3cMIKDtvbC!!!IQIjAKSyIvbJe/9HreGXnL9afqTirxxsd1K0O+BWAJhRwSolrPECHwDK3TFp47YV!!!hNgy4ryZDF2llo1QQ+7Eo4U7Yvbsdn8CIj94BtFkREzUqsXNT7LOhQ+17BXgFvvg!!!SVLi0cfhebdsXYECHwCh3+TZMPoPq8R0vlZt7d8gDcVPYhW51R2wKKUORPMCIky3!!!WAGk/6nzpwpBRqZZL2+UET8cugnmw5aXJ3mjXJ9pfIA=!!!-----END RSA PRIVATE KEY-----!!!
+
+Successfully Generated Authority: University of Pharmacy
+
+Authority Public Key (Id): 
+
+-----BEGIN RSA PUBLIC KEY-----!!!MEgCQQCgL3828F1CDUfCNGFyTlXJPqE9oiIx1LBoClVmG56JAg/ZHsYRWrpQYhSr!!!1Q4wdxHnLSSUTEos+bKvdGy6iO2DAgMBAAE=!!!-----END RSA PUBLIC KEY-----!!!
+
+Authority Private Key: 
+
+-----BEGIN RSA PRIVATE KEY-----!!!MIIBOwIBAAJBAKAvfzbwXUINR8I0YXJOVck+oT2iIjHUsGgKVWYbnokCD9kexhFa!!!ulBiFKvVDjB3EectJJRMSiz5sq90bLqI7YMCAwEAAQJAF5dnMPwtf/DcxKlaQK9w!!!yvbCYIVka9pbMLd05Fjk4cx+YmN6gOJVxcS+kEys8XJrkeG0Jua4bqOEFjAYIQUu!!!QQIjALR4Iy7cQJ4bTg9aDuDHzMVpK45XARGPlzB0ykcKRujY1UkCHwDjOh2Az6jU!!!IoQz1w7FaXf+ZlUlv3geI3S3bWbRiGsCIlGuJk5pRZ3JwfTUz/MQuy+GQD52RneK!!!Q+Wcloi8sAdnTHECHhIT55D99HKcJGRzcatnDrLgtVmBeC79pyWIwKte7QIiEuqb!!!wSIFE3vCTZHyiY5EzH/gQI40qOmaSI7KGHIqDb8Cvg==!!!-----END RSA PRIVATE KEY-----!!!
+
+Successfully Generated Authority: HCM Law University
+
+Authority Public Key (Id): 
+
+-----BEGIN RSA PUBLIC KEY-----!!!MEgCQQCmmzE7cgne0u5JEcdQZJg0E5aNoXDQqwijU0mDo0/Mi8mOKWud7iQfm8zg!!!BYzg29JL097Qo5ieRoDsj09iAv3nAgMBAAE=!!!-----END RSA PUBLIC KEY-----!!!
+
+Authority Private Key: 
+
+-----BEGIN RSA PRIVATE KEY-----!!!MIIBPAIBAAJBAKabMTtyCd7S7kkRx1BkmDQTlo2hcNCrCKNTSYOjT8yLyY4pa53u!!!JB+bzOAFjODb0kvT3tCjmJ5GgOyPT2IC/ecCAwEAAQJAMvcmiFjKTC+aVR/rKNyc!!!8tFLLOhF6o9nhQ7lXi+G9B4gNoHv9VCr/fEN5WhecxWee6tBoPmXxOFH4qUoY7oS!!!AQIjAK9D0KSt6jPXxhFhEMXxw4d5haxnqo9PbrQiuJGaWBlEe1cCHwDzWkx0VUm4!!!pIYTvL1xmj50nYXVYU1Rlty7NbCAh/ECIjieu+S3mpWs+3vZ08Ve2UAG7jxIMT2i!!!96ySGvZO2m8vRHkCHgm+U9FUmN8Lt1KS/ALQai/BHtqsSqw5nhzgyXBcAQIjAJ5n!!!qR+hH8kmwBvBw8HGR3m0R3Rh2N2c3jtMfaP8F6HnSRY=!!!-----END RSA PRIVATE KEY-----!!!
+
+Successfully Generated Authority: University of Industry
+
+Authority Public Key (Id): 
+
+-----BEGIN RSA PUBLIC KEY-----!!!MEgCQQCMRO65uA9Cjabcp7POW5LTzwfeZ/osdl6t4auri9fI6oummkJyNd84pfv5!!!6K9MyWyj3OY2YG+xJ+rs7WPrcMrvAgMBAAE=!!!-----END RSA PUBLIC KEY-----!!!
+
+Authority Private Key: 
+
+-----BEGIN RSA PRIVATE KEY-----!!!MIIBPAIBAAJBAIxE7rm4D0KNptyns85bktPPB95n+ix2Xq3hq6uL18jqi6aaQnI1!!!3zil+/nor0zJbKPc5jZgb7En6uztY+twyu8CAwEAAQJAVL0wGzJ+xY4dyB/oGDpq!!!MVtZPZtDH6lC+Xjj5PbOOxnncxrv5LO6QccVLmmjBDnHiatlj6bdCJlGCALM6gTV!!!gQIjAKMndtIO19yAN2b6UZe2HcILo0OA8kxQiJzE7B7f5h968BcCHwDcF5B2MUaD!!!vRLNo4FY/zPavf6Rwqq31mW2dCTrqukCIhOLh710T8G3jmuEsz+Ubo4vbLiKevxP!!!bX4yTQMJ2XyN8rMCHwDBTZD7vduI6Q8SvYBlgf8xJ53mt2rpe8xpqyiiM8ECIm6r!!!HSYVvlTALzrB9ST8k/4BSXuHZlIIgLLnmp3bo6W1HDM=!!!-----END RSA PRIVATE KEY-----!!!

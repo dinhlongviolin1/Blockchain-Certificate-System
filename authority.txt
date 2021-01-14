@@ -1,0 +1,6 @@
+RMIT University *** -----BEGIN RSA PUBLIC KEY-----!!!MEgCQQDcMoxrl5bSrPEeqShfvBE+PfeucroYgn8mxpyCVmF4xz2GZZxFri+59nlf!!!OFvkOkdDQP4pq6GZIYZAUaL9TGClAgMBAAE=!!!-----END RSA PUBLIC KEY-----!!!
+Swinburne University *** -----BEGIN RSA PUBLIC KEY-----!!!MEgCQQCHeRJ3S5JLXoOAk3KICWlxTmNmhkn+dhx5eR1tDjLm5Rag7+RNYnE0WJ5D!!!ODvtbI5St9aBHkOnIDmXIBvb2IXNAgMBAAE=!!!-----END RSA PUBLIC KEY-----!!!
+University of Science and Technology *** -----BEGIN RSA PUBLIC KEY-----!!!MEgCQQCCgt0pIkh0wRO5C4TTOeM5U+/Fxpz+9uTBdKp4LL2ehtHZusRlmI8VCCY1!!!64yYxxPOsnHYIgIDyJtPZm5Kk+GPAgMBAAE=!!!-----END RSA PUBLIC KEY-----!!!
+University of Pharmacy *** -----BEGIN RSA PUBLIC KEY-----!!!MEgCQQCgL3828F1CDUfCNGFyTlXJPqE9oiIx1LBoClVmG56JAg/ZHsYRWrpQYhSr!!!1Q4wdxHnLSSUTEos+bKvdGy6iO2DAgMBAAE=!!!-----END RSA PUBLIC KEY-----!!!
+HCM Law University *** -----BEGIN RSA PUBLIC KEY-----!!!MEgCQQCmmzE7cgne0u5JEcdQZJg0E5aNoXDQqwijU0mDo0/Mi8mOKWud7iQfm8zg!!!BYzg29JL097Qo5ieRoDsj09iAv3nAgMBAAE=!!!-----END RSA PUBLIC KEY-----!!!
+University of Industry *** -----BEGIN RSA PUBLIC KEY-----!!!MEgCQQCMRO65uA9Cjabcp7POW5LTzwfeZ/osdl6t4auri9fI6oummkJyNd84pfv5!!!6K9MyWyj3OY2YG+xJ+rs7WPrcMrvAgMBAAE=!!!-----END RSA PUBLIC KEY-----!!!
